@@ -1,0 +1,10 @@
+<red>
+ OOOOOOOOO      O         O    OOOOOOOOOOO    OOOOOOOO
+O         O      O       O     O              O      O
+O         O       O     O      O              O     O
+O         O        O   O       OOOOOOOOOOO    OOOOOO
+O         O         O O        O              O     O
+O         O          O         O              O      O
+ OOOOOOOOO           O         OOOOOOOOOOO    O       O
+
+<reset>

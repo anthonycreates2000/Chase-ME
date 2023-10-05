@@ -1,0 +1,27 @@
+<yellow>
+Welcome to my app! This is the game app that is based on djikstra!
+<red>
+========================
+    ! BETA VERSION !
+========================
+<yellow>
+
+This is a chase app that finds the location of the user. It based on djisktra algorithm to find the location of the player. Your task is to run away from the opponent so you will not get hit by the person. If you hit, then you lose the game!
+
+<blue>
+===============================
+    The simple sentence:
+ :) How long you can survive?
+===============================
+
+<yellow>
+Hints:
+<red>
+(%) Sand, movement cost: 3 points,
+(#) Grass, movement cost: 2 points,
+(^) Rock area, movement cost: 5 points,
+( ) default, movement cost 1 point
+<green>
+(P) player
+(*) Goal
+<reset>
